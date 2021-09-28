@@ -12,7 +12,7 @@
 1. Создадим очень красивый плагин раскрывающихся карточек. [jsfiddle](https://jsfiddle.net/dimalepel/adytqp5e/48/)
 2. Научимся делать Drag & Drop, создав мини-клон Trello. [jsfiddle](https://jsfiddle.net/dimalepel/g6oLvr1n/48/)
 3. Напишем впечатляющий слайдер картинок. [jsfiddle](https://jsfiddle.net/dimalepel/pkc1xa52/59/)
-4. Создадим визуальную мини-игру с динамической генерацией контента.
+4. Создадим визуальную мини-игру с динамической генерацией контента. [jsfiddle](https://jsfiddle.net/dimalepel/1bwujgh9/5/)
 5. Напишем целую игру "Aim Game" с 3мя экранами!
 
 ![](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/a2c26fe09544e91080128c294c1c8589.jpg/s/s1200x/a/177331/sc/8)
